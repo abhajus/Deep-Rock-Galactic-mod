@@ -7,3 +7,5 @@ Basically, what this mod does is it lets to reset 2 certain campaigns:
 
 Breach the core is being reset cuz its just cool and fun to do it but they also can be cancelled so technically every 1 mission 
 empty cores could be farmed but that was not the intention. Just to mess around with the game.
+
+The mod was made using Unreal Engine 4.27.2
